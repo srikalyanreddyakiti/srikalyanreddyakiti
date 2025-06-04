@@ -51,7 +51,6 @@ I specialize in:
 
 🔗 [LinkedIn](https://www.linkedin.com/in/srikalyanreddyakiti)  
 💻 [GitHub](https://github.com/srikalyanreddyakiti)  
-📬 Email: srikalyan280@gmail.com  
 
 ---
 
