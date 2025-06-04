@@ -1,31 +1,62 @@
-# 👋 Hi there, I'm Srikalyan Reddy Akiti
+# 👋 Hi there, I'm Sri Kalyan Reddy Akiti
 
-I'm a Data Scientist passionate about building intelligent systems that solve real-world problems.  
-I specialize in **machine learning**, **predictive analytics**, and **data visualization**.
-
----
-
-## 🔧 What I Do
-
-- Build end-to-end ML models for business insights and automation  
-- Work with real-world datasets in energy, environment, and education  
-- Deploy data dashboards and visualization tools (Power BI, Tableau)
+🎓 **Data Analyst | Business Intelligence | Machine Learning Enthusiast**  
+📍 Based in Corpus Christi, Texas | Open to Data Analyst, BI Analyst, Business Analyst roles  
 
 ---
 
-## 📌 Project Highlights
+## 🔍 About Me
 
-- 🔋 **Transformer Failure Prediction** using ML  
-- 🌊 **Ocean pH Modeling** with GOMEC Data  
-- 🧪 **Plastic Classification** with Lab Dataset  
-- 🖼️ **Image Super-Resolution** using GANs  
-- 📊 **Business Dashboards** in Power BI
+I’m a results-driven **Data Analyst** with a passion for turning raw data into actionable business insights.  
+I specialize in:
+
+✅ **Data Visualization** (Power BI, Tableau, Matplotlib, Seaborn)  
+✅ **Statistical Analysis & Predictive Modeling**  
+✅ **Data Engineering & ML Pipelines** (Python, SQL, Pandas, Scikit-learn)  
+✅ **Cloud Data Tools** (BigQuery, Snowflake, AWS)  
 
 ---
 
-## 💬 Let's Connect
+## 🚀 Project Highlights
 
-Feel free to reach out or collaborate on **AI-driven solutions** that make an impact!
+- 🔋 **Transformer Failure Prediction** (Health Index Model — improved maintenance by 20%)
+- 🌊 **pH Level Forecasting** (Built predictive models from GOMEC ocean data)
+- 🧪 **Plastic Classification** (KNN-based recycling classification)
+- 🎭 **Emotion Detection** (CNN + OpenCV with visualized trends)
+- 📊 **Business KPI Dashboards** (Power BI dashboards for executive insights)
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**: Python, SQL, MySQL  
+**Data Science**: Scikit-learn, TensorFlow, Pandas, NumPy, EDA, Statistical Modeling  
+**Visualization**: Power BI, Tableau, Matplotlib, Seaborn  
+**Big Data / Cloud**: Hadoop, Spark, BigQuery, Snowflake, AWS  
+**Web Tools**: WordPress, HTML/CSS  
+**Math & Stats**: Linear Algebra, Probability, Statistics, Calculus  
+
+---
+
+## 📚 Certifications
+
+- 🎓 Google Data Analytics Professional Certificate  
+- ☁️ AWS Cloud Literacy  
+- 🏆 Certificate of Excellence — Web Design (QiTech)  
+- ⚡ Transformer Health Index Model Development (iScientific TechSolutions)  
+
+---
+
+## 🤝 Let’s Connect!
+
+🔗 [LinkedIn](https://www.linkedin.com/in/srikalyanreddyakiti)  
+💻 [GitHub](https://github.com/srikalyanreddyakiti)  
+📬 Email: srikalyan280@gmail.com  
+
+---
+
+_“Turning data into decisions, and decisions into impact.”_ 🚀
+
 
 
 <!--
