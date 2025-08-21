@@ -44,6 +44,7 @@ Transformer Health Index Model Development (iScientific TechSolutions)
 
 Let’s Connect
 
-Linked | GitHub
+LinkedIn
+ | GitHub
 
 “Engineering data pipelines that fuel intelligence and impact.”
