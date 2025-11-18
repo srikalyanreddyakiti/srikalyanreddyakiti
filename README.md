@@ -1,11 +1,5 @@
 <div align="center">
 
-<!-- Futuristic Computer Animation -->
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHB2cWx6Z3JidW83amNzNzh5ZzlwY3FmMHl6dHduaW44eGt3ODM4MCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/giphy.gif" width="220" />
-
-<!-- Futuristic Person Working on Computer -->
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjNkMmU1b3ByOHh1a3QxOHIycmMxbDA3ZjJzZGp2bWNxYnI2YWw3MiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7btPCcdNniyf0ArS/giphy.gif" width="330" />
-
 <!-- Futuristic Title -->
 <h1 style="font-family: 'Orbitron', sans-serif; font-size: 32px; font-weight: bold;">
 ⚡ Data Engineer • Cloud • Big Data • ML ⚡
