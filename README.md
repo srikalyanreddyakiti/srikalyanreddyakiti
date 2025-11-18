@@ -1,11 +1,14 @@
 # 🌟 **Hi, I'm Sri Kalyan Reddy Akiti**  
-### 🚀 *Data Engineer | Big Data | Cloud | ML Enthusiast*  
+### 🚀 *Data Engineer | Big Data | Cloud | Machine Learning Enthusiast*  
 📍 Texas, USA • 🔍 Open to Data Engineering Roles  
 
 ---
 
 <div align="center">
-  
+
+<!-- Computer Animation -->
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="230" />
+
 ![banner](https://capsule-render.vercel.app/api?type=waving&color=0:4A90E2,100:0A66C2&height=230&section=header&text=Sri%20Kalyan%20Reddy%20Akiti&fontSize=45&fontColor=ffffff&animation=fadeIn)
 
 </div>
@@ -13,26 +16,26 @@
 ---
 
 ## 🚀 **About Me**
-I am a Data Engineer experienced in building **scalable pipelines**, managing **large datasets**, and enabling **analytics + machine learning workloads**.  
-I work with **Azure Data Factory, Databricks, ADLS, and Spark** to create efficient, automated, and reliable data systems.
+I am a Data Engineer with experience building **scalable pipelines**, handling **large datasets**, and enabling **ML workflows** in cloud environments.  
+I specialize in **Azure Data Factory, Databricks, ADLS, and Spark** to build high-performance, automated data systems.
 
 ---
 
 ## ⭐ **Tech Highlights**
 - ⚙️ End-to-end ETL/ELT pipelines using **ADF + Databricks + Spark**  
-- 📊 Built data workflows powering dashboards & ML models  
-- 🤖 Integrated AI/ML models inside engineering pipelines  
-- 🌩️ Deployed multi-cloud data solutions  
-- 📈 Designed analytics-ready datasets for business insights  
+- 🚀 Built cloud-native data workflows  
+- 🤖 Integrated ML models into data pipelines  
+- 🌩️ Multi-cloud experience  
+- 🔧 Strong backend + big data engineering skills  
 
 ---
 
 ## 🧪 **Featured Projects**
-- 🔧 **Transformer Failure Prediction** – ML model identifying early transformer failure risks  
-- 🌊 **Ocean pH Forecasting** – Environmental time-series modeling  
-- ♻️ **Plastic Waste Classification** – Image classification for recycling  
-- 🙂 **Emotion Detection (CV)** – Deep learning model for facial expression detection  
-- 📊 **Business KPI Dashboards** – Power BI dashboards for executive insights  
+- 🔧 **Transformer Failure Prediction** — Predictive ML model for failure risks  
+- 🌊 **Ocean pH Forecasting** — Environmental time-series modeling  
+- ♻️ **Plastic Waste Classification** — Image classification for recycling  
+- 🙂 **Emotion Detection (CV)** — Deep learning for facial expressions  
+- 📊 **Business KPI Dashboards** — Power BI dashboards  
 
 ---
 
